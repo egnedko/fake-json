@@ -1,6 +1,6 @@
 {
     "State": {
-      "Active": {
+      1Active: {
         "Name": "Active",
         "Label": "Active",
         "Category": "Active",
@@ -21,5 +21,5 @@
         "Label": "Approved",
         "Category": "Recruiting"
       }
-   
+    }
 }

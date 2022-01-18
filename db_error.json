@@ -1,0 +1,24 @@
+{
+  "State": {
+    "Active": {
+      "Name": "Active",
+      "Label": "Active",
+      "Category": "Active",
+      "DisplayOrder": "1"
+    },
+    "Lost": {
+      "Name": "Lost",
+      "Label": "Lost",
+      "Category": "Recruiting"
+    },
+    "Signed": {
+      "Name": "Signed",
+      "Label": "Signed",
+      "Category": "Recruiting"
+    },
+    "Approved": {
+      "Name": "Approved",
+      "Label": "Approved",
+      "Category": "Recruiting"
+    }
+}
